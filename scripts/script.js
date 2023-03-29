@@ -10,10 +10,10 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/1.mp3",
+          name: "Alex",
+          artist: "Soares",
+          cover: "https://i.imgur.com/s6pJOl2.png",
+          source: "https://ice.fabricahost.com.br/radiotcuritiba",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
