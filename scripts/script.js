@@ -13,7 +13,7 @@ new Vue({
           name: "Soares",
           artist: "Alex",
           cover: "https://i.imgur.com/s6pJOl2.png",
-          source: "https://www.youtube.com/watch?v=9epBVwGmwPA&ab_channel=FirstMusic",
+          source:<iframe width="788" height="480" src="https://www.youtube.com/embed/9epBVwGmwPA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>     ",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
