@@ -20,7 +20,7 @@ let tail = {};
     webgl.phase = "wall";
 
     webgl.loader = new THREE.TextureLoader();
-    webgl.texture = webgl.loader.load('https://i.imgur.com/ZrnWXzF.png', setup); 
+    webgl.texture = webgl.loader.load('https://i.imgur.com/s6pJOl2.png', setup); 
 })();
 
 
