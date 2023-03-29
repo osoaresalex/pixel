@@ -10,10 +10,10 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
-          name: "Alex",
-          artist: "Soares",
+          name: "Soares",
+          artist: "Alex",
           cover: "https://i.imgur.com/s6pJOl2.png",
-          source: "https://ice.fabricahost.com.br/radiotwenceslaubras",
+          source: "https://youtu.be/9epBVwGmwPA",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
