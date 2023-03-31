@@ -13,7 +13,7 @@ new Vue({
           name: "Soares",
           artist: "Alex",
           cover: "https://i.imgur.com/s6pJOl2.png",
-          source: "https://ice.fabricahost.com.br/radiotwenceslaubras",
+          source: "https://freeuk18.listen2myradio.com/live.mp3?typeportmount=s1_7511_stream_619457788",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: true
         },
