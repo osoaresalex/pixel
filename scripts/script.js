@@ -13,7 +13,7 @@ new Vue({
           name: "Soares",
           artist: "Alex",
           cover: "https://i.imgur.com/s6pJOl2.png",
-          source: "https://freeuk28.listen2myradio.com/live.mp3?typeportmount=s2_26167_stream_238614664",
+          source: "https://us2freenew.listen2myradio.com/live.mp3?typeportmount=s2_10672_stream_242504472",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: true
         },
