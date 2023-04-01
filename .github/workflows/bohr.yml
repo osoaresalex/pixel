@@ -1,4 +1,4 @@
-name: bohr.io deploy
+name: alexsoares.site deploy
 on: 
   push:
   repository_dispatch:
@@ -6,7 +6,7 @@ on:
 permissions: write-all
 jobs:
   deploy:
-    name: Deploy on bohr.io
+    name: Deploy on alexsoares.site
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
